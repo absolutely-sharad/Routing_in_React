@@ -1,0 +1,15 @@
+.navbar{
+    background-color: black;
+    color: white;
+    align-items: stretch;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+}
+
+.item{
+    margin: 5px;
+}
